@@ -1,5 +1,5 @@
 ## Hello 👋 I'm Adam
-I am very interested in Frontend Developer and Computer System development. I am currently an undergraduate student of Information Systems at STMIK Tegal. I enjoy exploring new technologies and constantly improving my skills. 🚀  
+I am very interested in Frontend Developer and Computer System development. I am currently an undergraduate student of Information Systems at Universitas Harkat Negeri. I enjoy exploring new technologies and constantly improving my skills. 🚀  
 Feel free to check out my projects and follow with me! 
 
 ## Contact me:
