@@ -4,6 +4,6 @@ Feel free to check out my projects and follow with me!
 
 ## Contact me:
 - LinkedIn: https://www.linkedin.com/in/adam-8107ba307/
-- Portfolio: https://adamportofolio-pwa.vercel.app/
+- Portfolio: [https://adamportofolio-pwa.vercel.app/](https://portofolio-web-red-xi.vercel.app/)
 - Instagram: https://www.instagram.com/_adam.dev?igsh=MTBzaGRubGtlaGZ1
 - Tiktok: https://www.tiktok.com/@_adam.dev?_t=8pZT9if8oFN&_r=1
